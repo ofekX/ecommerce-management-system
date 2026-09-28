@@ -1,0 +1,16 @@
+*.class
+bin/
+out/
+build/
+target/
+
+.idea/
+*.iml
+.vs/
+.vscode/*
+!.vscode/settings.json
+
+.env
+.env.*
+!.env.example
+*.log
